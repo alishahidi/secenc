@@ -1,0 +1,7 @@
+opencv-python
+pyjwt
+pycryptodome
+termcolor
+numpy
+key_generator
+Pillow
